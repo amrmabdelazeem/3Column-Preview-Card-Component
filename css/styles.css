@@ -1,0 +1,9 @@
+:root{
+    --brightorange: #e38826;
+    --darkcyan: #006970;
+    --verydarkcyan: #004241;
+    /* for paragraphs*/
+    --transparentwhite: #ffffffbf;
+    /*for background, headings and buttons*/
+    --lightgray:#f2f2f2;
+}
