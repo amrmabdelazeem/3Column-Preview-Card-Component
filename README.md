@@ -23,7 +23,7 @@ Users should be able to:
 - [Desktop](https://i.imgur.com/ISFBRII.jpeg)
 - [Mobile](https://i.imgur.com/yWsiwsL.jpeg)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-columns-cards-using-grid-and-flexbox-B_rL6Wal2A)
 - Live Site URL: [Github](https://amrmabdelazeem.github.io/3Column-Preview-Card-Component/)
 
 
